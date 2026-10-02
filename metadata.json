@@ -1,0 +1,6 @@
+{
+  "name": "ResQMesh — Offline Disaster Communication & AI Emergency Coordination",
+  "description": "Offline-first mesh network emergency response platform with AI-assisted triage, real-time command center, and device-to-device relay simulation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
